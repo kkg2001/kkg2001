@@ -1,8 +1,5 @@
 ### Hello 👋
 
-<!--
-**kkg2001/kkg2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I’m currently a 2024 Computer science undergrad who loves Python and drawn towards core computer science domains like Theoretical Computer science...
 
 Some more about you:
