@@ -61,9 +61,8 @@
  
 ### :fire: My Stats :
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kkg2001&theme=dark&background=000000)](https://git.io/streak-stats)
+- ![Github Readme](https://github-readme-stats.vercel.app/api?username=kkg2001&show_icons=true&theme=dark&layout=compact)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkg2001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-    
 
 
 
