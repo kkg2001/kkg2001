@@ -17,8 +17,10 @@
 - :2nd_place_medal: Runner up in Srishti State Level hackathon held in BMSCE in July 2022
 - :1st_place_medal: I was among the top 3% of the global particpants in International Youth Math Challenge 2021 and awarded with a Gold Honor
 - :paintbrush: I love sketching
-- :books: An avid reader. Currently reading-
-   ### Turing's Vision- The Birth of Computer Science by Chris Berndart
+- :books: An avid reader.
+  My book list
+  - ### Theory of Everything by Stephen Hawking
+  - ### The Man Who Knew Infinity by Robert Kanigel
 
 
 
