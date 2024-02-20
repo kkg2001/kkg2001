@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## I’m currently a 2024 Computer science undergrad who loves implementing computer engineering fundamentals and loves brainstorming on core CS areas...
+## Incoming Software Engineer
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
