@@ -15,27 +15,24 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=kkg2001&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h2 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+</h2>
 
-## Incoming Software Engineer
+---
+I am Krishna Kant Gupta, final year CS undergrad student at CMR Institute of Technology, Bengaluru and currently a GitHub Global Campus Student. I am proficient in Python and C++ and actively looking for data science and machine learning roles. 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-</div>
+I love brainstorming and possess strong hold on CS fundamentals like Algorithms, Discrete Mathematics, Theory of Computation, Machine Learning. 
+My passion for problem solving extends to the realm of mathematics. I have been accorded with a gold honor in International Youth Math Challenge in 2021. I have also worked as a math problem setter for Unified Council and was amongst the top 100 national achievers in National Level Science Talent Search Examination, 2018
 
-## :man_technologist: About me
-- 🔭I am a Github Global Campus Student 
-- 🌱 I am currenly a software enginnerig intern at OpenBootcamp
-- 👯 I’m looking to collaborate on exciting Projects and Hackathons
-- 🤔 I’m looking for help with Backend
+--- 
+I am currently:
+- 🔭 a Github Global Campus Student 
+- 🌱 a software enginnerig intern at OpenBootcamp
+- 👯 looking to collaborate on exciting Projects and Hackathons
 - :zap: In my free time, I solve problems on GeeksforGeeks and read research papers
-- 😄 Pronouns: He/Him
 - :toolbox: I am working on SMT solvers and logic programming
 - :mailbox:How to reach me: ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -48,17 +45,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 ## A little more about me:
 - :medal_military: In March 2023, I was one of the select undergraduate students invited to the IIT Bombay CSE Research Symposium.
 - :2nd_place_medal: Runner up in Srishti State Level hackathon held in BMSCE in July 2022.
-- :1st_place_medal: I achieved a Gold Honor in the International Youth Math Challenge 2021, placing me within the top 3% of participants worldwide.
-- :paintbrush: I have a deep passion for sketching
+- :1st_place_medal: I have been accorded with a gold honor in International Youth Math Challenge in 2021. 
+- :paintbrush: Self taught sketch-artist
 - :books: An avid reader.
   Presently engaged in
-  - ### Theory of Everything by Stephen Hawking
-  - ### The Man Who Knew Infinity by Robert Kanigel
+  - Theory of Everything by Stephen Hawking
+  - The Man Who Knew Infinity by Robert Kanigel
+---
 
- 
 ### :fire: My Stats :
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kkg2001&theme=dark&background=000000)](https://git.io/streak-stats)
 - ![Github Readme](https://github-readme-stats.vercel.app/api?username=kkg2001&show_icons=true&theme=dark&layout=compact)
