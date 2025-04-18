@@ -6,15 +6,15 @@
 </h2>
 
 ---
-I am Krishnakant, a curious software enginner!!!
-I love brainstorming and possess strong hold on Discrete Mathematics.  
+I am Krishnakant, a AI enthusiast who loves brainstorming. I am working as an Application Engineer 1 at o9 Solutions where I am building an LLM tool to automate the testing workflows.
+I possess a strong hold on Discrete Mathematics.
 My passion for problem solving extends to the realm of mathematics. I have been accorded with a gold honor in International Youth Math Challenge in 2021. I have also worked as a math problem setter for Unified Council and was amongst the top 100 national achievers in National Level Science Talent Search Examination, 2018
 
 --- 
-I am currently an Application Engineer 1 at o9 Solutions
+I am currently 
 - 👯 looking to collaborate on exciting Projects and Hackathons
 - :zap: In my free time, I solve problems on GeeksforGeeks and read research papers
-- :toolbox: I am working on SMT solvers and logic programming
+- :toolbox: I have worked on SMT solvers and logic programming.
   
 ---
 <div id="badges">
