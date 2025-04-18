@@ -6,15 +6,11 @@
 </h2>
 
 ---
-I am Krishna Kant Gupta, final year CS undergrad student at CMR Institute of Technology, Bengaluru and currently a GitHub Global Campus Student. I am proficient in Python and C++ and actively looking for data science and machine learning roles. 
-
 I love brainstorming and possess strong hold on CS fundamentals like Algorithms, Discrete Mathematics, Theory of Computation, Machine Learning. 
 My passion for problem solving extends to the realm of mathematics. I have been accorded with a gold honor in International Youth Math Challenge in 2021. I have also worked as a math problem setter for Unified Council and was amongst the top 100 national achievers in National Level Science Talent Search Examination, 2018
 
 --- 
-I am currently:
-- 🔭 a Github Global Campus Student 
-- 🌱 a software enginnerig intern at OpenBootcamp
+I am currently an Application Engineer 1 at o9 Solutions
 - 👯 looking to collaborate on exciting Projects and Hackathons
 - :zap: In my free time, I solve problems on GeeksforGeeks and read research papers
 - :toolbox: I am working on SMT solvers and logic programming
