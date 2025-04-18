@@ -6,7 +6,8 @@
 </h2>
 
 ---
-I love brainstorming and possess strong hold on CS fundamentals like Algorithms, Discrete Mathematics, Theory of Computation, Machine Learning. 
+I am Krishnakant, a curious software enginner!!!
+I love brainstorming and possess strong hold on Discrete Mathematics.  
 My passion for problem solving extends to the realm of mathematics. I have been accorded with a gold honor in International Youth Math Challenge in 2021. I have also worked as a math problem setter for Unified Council and was amongst the top 100 national achievers in National Level Science Talent Search Examination, 2018
 
 --- 
